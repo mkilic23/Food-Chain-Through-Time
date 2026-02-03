@@ -1,16 +1,5 @@
-# macOS
 .DS_Store
 __MACOSX/
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-# Java build outputs (Eclipse/others)
 bin/
-target/
-build/
-
-# Logs
+*.class
 *.log
