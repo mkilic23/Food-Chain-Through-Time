@@ -52,17 +52,4 @@ Packages (high-level):
 - `io` — `FileManager`, `GameLogger`, `SoundManager`
 - `exceptions` — `InvalidMoveException`
 
-## How to Run
 
-### Option A — Eclipse (recommended)
-1. Open Eclipse → **File → Import → Existing Projects into Workspace**
-2. Select the project root folder (contains `src/`, `assets/`)
-3. Run `main.Main` as **Java Application**
-
-### Option B — Terminal (plain javac)
-From the project root (where `src/` exists):
-```bash
-mkdir -p out
-find src -name "*.java" > sources.txt
-javac -d out @sources.txt
-java -cp out main.Main
