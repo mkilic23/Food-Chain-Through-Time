@@ -4,6 +4,7 @@ Turn-based, grid-based **food chain simulation game** implemented in **Java (Swi
 
 The player controls the **Predator** and tries to score by eating the **Prey** while avoiding the **Apex Predator**, across three eras (**Past / Present / Future**). Each era changes special move geometry, cooldown behavior, and visuals.
 
+
 ## Gameplay Overview
 - **Turn order:** Prey (AI) → Predator (Player) → Apex (AI)  
 - **Start options:** Era selection (Past/Present/Future), grid size (n×n), total rounds  
