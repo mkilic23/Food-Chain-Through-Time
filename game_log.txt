@@ -1,0 +1,22 @@
+[06:48:50] GAME_START era=Present totalRounds=30 playerRole=Predator
+[06:48:50] SPAWN player=Orca(Predator) (x=18,y=0)- apex=Great White(Apex) (x=18,y=17)- prey=Tuna(Prey) (x=7,y=19)
+[06:48:50] ROUND_BEGIN r=0/30 era=Present playerRole=Predator
+[06:48:50] MOVE AI actor=Tuna(Prey) from=(7,19) to=(6,18) 
+[06:48:52] MOVE PLAYER actor=Orca(Predator) from=(18,0) to=(18,1) 
+[06:48:52] MOVE AI actor=Great White(Apex) from=(18,17) to=(17,17) 
+[06:48:52] ROUND_END r=0/30 era=Present scores: player=0 apex=0 prey=0
+[06:48:52] ROUND_BEGIN r=1/30 era=Present playerRole=Predator
+[06:48:52] MOVE AI actor=Tuna(Prey) from=(6,18) to=(5,17) 
+[06:48:52] MOVE PLAYER actor=Orca(Predator) from=(18,1) to=(17,1) 
+[06:48:52] MOVE AI actor=Great White(Apex) from=(17,17) to=(16,18) 
+[06:48:52] ROUND_END r=1/30 era=Present scores: player=0 apex=0 prey=0
+[06:48:52] ROUND_BEGIN r=2/30 era=Present playerRole=Predator
+[06:48:52] SCORE_GAIN Tuna(Prey) gain 3 points reason:EAT_FOOD
+[06:48:52] Plankton respawns
+[06:48:52] MOVE AI actor=Tuna(Prey) from=(5,17) to=(5,16) 
+[06:48:53] MOVE PLAYER actor=Orca(Predator) from=(17,1) to=(16,1) 
+[06:48:53] MOVE AI actor=Great White(Apex) from=(16,18) to=(15,19) 
+[06:48:53] ROUND_END r=2/30 era=Present scores: player=0 apex=0 prey=3
+[06:48:53] ROUND_BEGIN r=3/30 era=Present playerRole=Predator
+[06:48:53] MOVE AI actor=Tuna(Prey) from=(5,16) to=(3,14) 
+[06:48:53] Tuna used Hop

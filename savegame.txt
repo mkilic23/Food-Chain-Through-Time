@@ -1,0 +1,8 @@
+MODE:Future
+GRID_SIZE:20
+ROUND:7
+MAX_ROUNDS:30
+ENTITY:FOOD,Plasma Core,5,1
+ENTITY:Apex,Void Serpent,13,10,1,2
+ENTITY:Predator,Alien Hunter,14,7,-1,0
+ENTITY:Prey,Robot,19,18,0,2

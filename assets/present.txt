@@ -1,0 +1,10 @@
+Food Chain 1: Lion, Cheetah, Bunny, Grass
+Food Chain 2: Polar Bear, Wolf, Deer, Shrubs
+Food Chain 3: Tiger, Hyena, Rabbit, Berries
+Food Chain 4: Eagle, Fox, Squirrel, Nuts
+Food Chain 5: Orca, Shark, Seal, Fish
+Food Chain 6: Crocodile, Leopard, Gazelle, Acacia
+Food Chain 7: Komodo Dragon, Python, Boar, Mushrooms
+Food Chain 8: Lynx, Coyote, Hare, Wildflowers
+Food Chain 9: Jaguar, Anaconda, Capybara, Water Plants
+Food Chain 10: Great White, Orca, Tuna, Plankton

@@ -1,0 +1,8 @@
+Food Chain 1: Alien Overlord, Alien Hunter, Human, Cow
+Food Chain 2: Leviathan, Cyborg, Robot, Energy Crystal
+Food Chain 3: Mech Titan, Drone, Android, Power Cell
+Food Chain 4: Alien Overlord, Mech Titan, Human, Bio Gel
+Food Chain 5: Leviathan, Cyborg, Robot, Energy Crystal
+Food Chain 6: Alien Hunter, Drone, Human, Data Core
+Food Chain 7: Cyborg, Android, Human, Nano Swarm
+Food Chain 8: Void Serpent, Alien Hunter, Robot, Plasma Core
